@@ -42,7 +42,7 @@ This project uses several core Python concepts, including:
 Clone the repository:
 
 ```bash
-git clone YOUR-REPOSITORY-URL
+git clone https://github.com/karthikmohan94/website-health-checker
 ```
 
 Move into the project folder:
